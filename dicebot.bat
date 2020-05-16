@@ -1,0 +1,2 @@
+py dicebot.py
+pause
